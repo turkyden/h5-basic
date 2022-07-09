@@ -1,0 +1,22 @@
+.app{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  width: 5rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 10px 10px 10px;
+  border-radius: 1rem;
+}
+
+.title{
+  font-size: 1.5rem;
+}
+
+.subTitle{
+  margin-top: 0.1rem;
+}
